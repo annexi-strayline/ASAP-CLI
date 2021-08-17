@@ -1,0 +1,3 @@
+package CLI.Widgets is end;
+-- I tried to make this a pure package, but it required me to also make the base
+-- CLI package pure...
