@@ -46,7 +46,7 @@ with Interfaces.C;      use Interfaces.C;
 
 with Ada.Strings.UTF_Encoding.Wide_Wide_Strings;
 
-pragma External_With ("tty_info.c");
+pragma External_With ("tty_ifo.c");
 
 package body CLI is
    
